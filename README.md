@@ -1,5 +1,5 @@
 # college
-link the project
+ the project link
  https://anasthaher.github.io/college/
  
 
